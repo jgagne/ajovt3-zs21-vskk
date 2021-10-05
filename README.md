@@ -4,7 +4,7 @@
 ## (English for Designers)
 
 - **Winter 2021**
-- Tuesday, 9:45–16:30; Room 104 online via Zoom and Slack
+- Tuesday, 9:45–16:30; Room 104; online via Zoom and Slack
   - Group 1: 9:45–11:15, 11:30–13:00
   - Group 2: 13:15–14:45, 15:00–16:30
 - Class Workspace: [Slack](https://slack.com) — Where Work Happens™
@@ -28,28 +28,21 @@
 
 ## Description
 
-**<cite>Applied English for Graphic and Media Designers</cite>** is a professional development course on written and oral English communication and career skills essential to design and media related practice.
+**<cite>Applied English for Graphic and Media Designers</cite>** (English for Designers) is a professional development course on written and oral English communication and career skills essential to design and media related practice.
 
 ## Topics
 
-### Writing (and Speaking) for
+Writing, speaking, and presenting for:
 
-- Design
-  - Storytelling, case studies, and presentations
-- Business
-  - CV (curriculum vitae) and motivational content
-- UX
-  - Words and messaging for interfaces and experiences
-- Technical Content
-  - Documentation and tutorials
-- Accessibility
-  - A mix of technical writing with the added complexity of markup, syntax, and structure
-- Social Media
-  - Shareable content, accessible to humans and robots
-- Academic Content
-  - Criticism and feedback; thesis abstract and outline
-- Blog Posts
-  - A mix of all forms of writing
+- Design: Storytelling, case studies, and presentations
+- Business: CV (curriculum vitae) and motivational content
+- UX: Words and messaging for interfaces and experiences
+- Technical Content: Documentation and tutorials
+- Accessibility: A mix of technical writing with the added markup, syntax, and structure
+- Social Media: Shareable, accessible content for humans and robots
+- Academic Content: Criticism and feedback; thesis abstract and outline
+- Blog Posts: A mix of all forms of writing
+
 
 ## Grading
 
@@ -63,17 +56,17 @@ Everyone starts with a high pass. Come to class, do the work, care about the wor
 
 ### Assessment
 
-|Task                        |Percentage|Description: a mix of in-class/online, written/oral/visual|
-|----------------------------|----------|------------------------------------------------------------|
-|Participation and attendance|25%       |Assignments, critiques, discussions, and workshops          |
-|Quizzes and exam(s)         |25%       |Critiques and interviews                                    |
-|Final presentation          |50%       |Public speaking and presentation                            |
+|Task                        |Percentage|
+|----------------------------|----------|
+|Participation and attendance|25%       |
+|Assignments                 |25%       |
+|Final presentations         |50%       |
 
 ### Attendance
 
 **Too long; didn’t read:** Please, keep me in the loop, communicate, and let me know when and if you need to be absent.
 
-Come to class, it’s once a week. But when you can’t (it happens; I may need to miss a class too), then contact me ahead of time (or later) via email or Slack.
+Come to class; it’s once a week. When you can’t, it happens (I may need to miss a class, too), then please, contact me ahead of time (or later) via Slack or email.
 
 |Absences         |Grade     |Description                                                         |
 |-----------------|----------|--------------------------------------------------------------------|
@@ -236,3 +229,16 @@ Helpful course related links.
 ## Schedule
 
 To be determined…
+
+- Week 1: Introductions, icebreaker, and course details
+- Week 2: Content first, lean writing, and digital accessibility
+- Week 3: Personal presentations
+- Week 4: Voice, tone, and style
+- Week 5: Design writing; storytelling and personal branding
+- Week 6: Design writing; storytelling and case studies
+- Week 7: Business writing; CV (curriculum vitae)
+- Week 8: Content workshop
+- Week 9: Presentations prep
+- Week 10: Presentations prep
+- Week 11: Final presentations
+- Week 12: Final presentations
