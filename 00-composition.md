@@ -61,7 +61,7 @@ For now, save your `.md` (Markdown) file locally on your device or in a safe, ac
 
 - [Why markup (and Markdown) matter](http://stet.editorially.com/articles/why-markup-and-markdown-matter/)
 - Towards A Semantic Web
-  - [The mechanics of rendering; pages 87–96](https://www.google.com/books/edition/Towards_A_Semantic_Web/bYRwAgAAQBAJ?hl=en&gbpv=1&dq=markup+and+letterpress&pg=PA87)
+  - [The mechanics of rendering; pages 87–96](https://www.google.com/books/edition/Towards_A_Semantic_Web/bYRwAgAAQBAJ?hl=en&gbpv=1&dq=mechanics+of+rendering&pg=PA87)
 
 ## Resources
 
