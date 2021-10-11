@@ -35,9 +35,9 @@ Consider inclusion of an image of the expected composition output, as well as th
 
 ## Add a subheading (if and when neccessary)?
 
-<!-- This is a comment; maybe an image (your handwritten instructions) goes here? -->
+<!-- This is a comment, a note for yourself or others; maybe add an image (your handwritten instructions)? -->
 
-A short description about the warm-up, icebreaker. Keep it short, but meaningful and informative.
+Add a short description about the warm-up, icebreaker. Keep it short, but meaningful and informative.
 
 - Use an unordered list
 - If the order isn't crucial
@@ -47,7 +47,7 @@ A short description about the warm-up, icebreaker. Keep it short, but meaningful
 2. Use an ordered list
 3. For a more procedural, step-by-step, vibe
 
-## Result or Output? Maybe *Result* is a bit more friendly, but I’ll leave the descriptive wording to you ;-)
+## Result or Output? Maybe *Result* is a bit more friendly, but I’ll leave the descriptive wording to you. ;-)
 
 ![Composition 1](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/01-comp.png)
 
