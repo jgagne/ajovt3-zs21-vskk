@@ -49,7 +49,7 @@ A short description about the warm-up, icebreaker. Keep it short, but meaningful
 
 ## Result or Output? Maybe *Result* is a bit more friendly, but I’ll leave the descriptive wording to you ;-)
 
-![Composition 4](https://jgagne.github.io/ajovt3-zs21-vskk/img/composition/04-comp.png)
+![Composition 1](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/01-comp.png)
 
 ```
 
