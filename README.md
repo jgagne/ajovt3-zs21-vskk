@@ -8,14 +8,13 @@
   - Group 1: 9:45–11:15, 11:30–13:00
   - Group 2: 13:15–14:45, 15:00–16:30
 - Class Workspace: [Slack](https://slack.com) — Where Work Happens™
-  - Group 1 (Slack workspace to be determined)
-  - Group 2 (Slack workspace to be determined)
+  - [Group 1](https://ajovt-1-21-22-vskk.slack.com)
+  - [Group 2](https://ajovt-2-21-22-vskk.slack.com)
 - Office Hours: Friday, ≈ 13:00–16:00 or by appointment
 - Lecturer: Justin Gagne
 - Email: `gagnej@vskk.cz`
 - Work: Boston, MA based; remote via Prague
-  - Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com).
-  - Adjunct professor, teaching Interactive Design at [Emmanuel College](https://www.emmanuel.edu).
+  - Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com)
 
 ## Contents
 
@@ -30,7 +29,7 @@
 
 **<cite>Applied English for Graphic and Media Designers</cite>** (English for Designers) is a professional development course on written and oral English communication and career skills essential to design and media related practice.
 
-## Topics
+### Topics
 
 Writing, speaking, and presenting for:
 
@@ -77,7 +76,6 @@ Come to class; it’s once a week. When you can’t, it happens (I may need to m
 ### Authorship
 
 Students must submit original work in this course; refer to the school policy on plagiarism.
-
 
 ## Books
 
@@ -131,14 +129,13 @@ Tools for making writing and designing more accessible; pick your flavor.
 
 ### Proofreading
 
-- [After the Deadline](https://www.polishmywriting.com)
 - [Grammarly](https://app.grammarly.com)
-- [Hemingway Editor](http://www.hemingwayapp.com)
+- [Hemingway Editor](https://www.hemingwayapp.com)
 - [LanguageTool](https://languagetool.org)
 
 ### Writing
 
-- [Hemingway Editor](http://www.hemingwayapp.com)
+- [Hemingway Editor](https://www.hemingwayapp.com)
 - [Notion](https://www.notion.so)
 - [Typora](https://typora.io)
 - [Workflowy](https://workflowy.com)
@@ -156,7 +153,7 @@ Tools for making writing and designing more accessible; pick your flavor.
 
 - [Atom](https://atom.io) (GitHub/Microsoft)
 - [BBEdit](https://www.barebones.com) (Mac only; made in Massachusetts)
-- [Brackets](http://brackets.io) (Adobe)
+- [Brackets](https://brackets.io) (Adobe)
 - [VS Code](https://code.visualstudio.com/download) (Microsoft)
 - [WebStorm](https://www.jetbrains.com/idea/buy/#discounts) (🍻 Na zdraví!)
   - [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie) (Pre-installed proofreading plugin)
@@ -177,10 +174,6 @@ Helpful course related links.
 - [Punctuation Pet Peeve: 5 Ways to Misuse a Comma](https://proofreadanywhere.com/misuse-a-comma-punctuation-pet-peeve/)
 
 ### Vocabulary
-
-#### English Usage and Style
-
-- [AP Style Quizzes](https://store.stylebooks.com/apstylequizzes/ap-style-quizzes.html) (Paid service)
 
 #### Copyediting
 
@@ -211,14 +204,14 @@ Helpful course related links.
 ##### HTML
 
 - [HTML Reference](https://htmlreference.io)
-- [HTML Element Index](http://html5doctor.com/#glossary)
-- [HTML Vocabulary](http://apps.workflower.fi/vocabs/html/en) (Visual guide)
+- [HTML Element Index](https://html5doctor.com/#glossary)
+- [HTML Vocabulary](https://apps.workflower.fi/vocabs/html/en) (Visual guide)
 
 ##### CSS
 
 - [CSS Reference](https://cssreference.io)
-- [CSS Vocabulary](http://nimbupani.com/css-vocabulary.html) (Explained)
-- [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en) (Visual guide)
+- [CSS Vocabulary](https://nimbupani.com/css-vocabulary.html) (Explained)
+- [CSS Vocabulary](https://apps.workflower.fi/vocabs/css/en) (Visual guide)
 
 #### Digital Publication
 
@@ -228,17 +221,71 @@ Helpful course related links.
 
 ## Schedule
 
-To be determined…
+12 weeks; each Tuesday at 9:45 and 13:15
 
-- Week 1: Introductions, icebreaker, and course details
-- Week 2: Content first, lean writing, and digital accessibility
-- Week 3: Personal presentations
-- Week 4: Voice, tone, and style
-- Week 5: Design writing; storytelling and personal branding
-- Week 6: Design writing; storytelling and case studies
-- Week 7: Business writing; CV (curriculum vitae)
-- Week 8: Content workshop
-- Week 9: Presentations prep
-- Week 10: Presentations prep
-- Week 11: Final presentations
-- Week 12: Final presentations
+- [Week 1](#week-1), October 5
+- [Week 2](#week-2), October 12
+- [Week 3](#week-3), October 19
+- [Week 4](#week-4), October 26
+- [Week 5](#week-5), November 2
+- [Week 6](#week-6), November 9
+- [Week 7](#week-7), November 16
+- [Week 8](#week-8), November 23
+- [Week 9](#week-9), November 30
+- [Week 10](#week-10), December 7
+- [Week 11](#week-11), December 14
+  - Final presentations
+- [Week 12](#week-12), December 21
+  - Final presentations
+
+**Note:** Preliminary, work in progress, schedule details are subject to change.
+
+### Week 1
+
+- Introductions, icebreaker, and course details
+  - Warm-up assignment:
+    - [Composition](00-composition.md)
+
+### Week 2
+
+- To be announced (TBA)
+
+### Week 3
+
+- TBA
+
+### Week 4
+
+- TBA
+
+### Week 5
+
+- TBA
+
+### Week 6
+
+- TBA
+
+### Week 7
+
+- TBA
+
+### Week 8
+
+- TBA
+
+### Week 9
+
+- TBA
+
+### Week 10
+
+- TBA
+
+### Week 11
+
+- Final Presentations
+
+### Week 12
+
+- Final Presentations
