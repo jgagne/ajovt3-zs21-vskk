@@ -248,7 +248,10 @@ Helpful course related links.
 
 ### Week 2
 
-- To be announced (TBA)
+- Discussion:
+  - Digital accessibility and alternative text
+- Assignment:
+  - [Character & Description](01-character-description.md)
 
 ### Week 3
 
