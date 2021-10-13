@@ -62,11 +62,11 @@ Capture and save final artwork in a digital format using these guidelines:
 
 ## Handoff
 
-Share your repo URL in the `01-character-description` channel of your Slack workspace.
+Share a link to your work in the `01-character-description` channel in Slack.
 
 ### GitHub Config
 
-- Create a project folder (repo) with a Markdown and image file (within an `img` folder).
+- In your `english-for-designers` repo, create a folder with a Markdown and image file (within an `img` folder).
   - For example:
     - `01-character-description`
       - `index.md`
@@ -88,6 +88,11 @@ Share your repo URL in the `01-character-description` channel of your Slack work
 
 *&*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator. 2017
 ```
+
+### Artwork File Naming
+
+- Use the filename convention of case, letter, first name initial followed by last name (surname).
+  - For example: `uppercase-and-jgagne.png`
 
 **Optional:**
 
@@ -120,11 +125,6 @@ Caption for sketch 1.
 - preview
 - raster
 ```
-
-#### Artwork Naming
-
-- Use the filename convention of case, letter, first name initial followed by last name (surname).
-  - For examples: `uppercase-and-jgagne.png`
 
 ## Examples
 
