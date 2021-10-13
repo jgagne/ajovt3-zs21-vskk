@@ -19,7 +19,7 @@ Working from the written instructions generated in class — edit, revise, struc
 
 ### Images
 
-Consider inclusion of an image of the expected composition output, as well as the original written instructions and, if possible, the drawn sketch from in class (resized to a width of `1280px` to match linked assets ↓).
+Consider inclusion of an image of the expected composition output, as well as the original written instructions and, if possible, the drawn sketch from in class (resized to a width of `1280 px` to match linked assets ↓).
 
 #### Linked Assets
 
