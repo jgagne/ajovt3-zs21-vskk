@@ -27,7 +27,7 @@
 1. Design a bespoke character; working from the modern English alphabet, choose a single letterform from A to Z (one of 26 letters) using any style (lowercase or uppercase, sans-serif or serif, cursive or fantasy, etc.) and technique (analog or digital).
 2. Write a concise, accessible, and semantic alternative text description of your final letterform artwork as a single sentence in under 120 characters.
     - For example: A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
-3. Also consider text for a caption: Letter, designer, and a list of materials or process.
+3. Also consider text for a caption: Letter, designer, a list of materials or process, and year.
     - For example: *&*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator. 2017
 
 ## Details
@@ -159,7 +159,8 @@ Caption for sketch 1.
 - [When writing alt text, ask yourself this question](https://www.centercentre.com/2016/06/09/2016-06-09-when-writing-alt-text-ask-yourself-this-question/)
 - [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 - [Include descriptive titles, captions, filenames, and text for images](https://support.google.com/webmasters/answer/114016?hl=en#descriptive-titles-captions-filenames)
-- [Rethinking Accessible Drop Caps: Pattern](https://justingagne.design/words/rethinking-accessible-drop-caps/#pattern)
+- [Testing punctuation and markup for audible variances in screen readers](https://doublegreat.dev/listen/)
+- [Accessible Drop Caps](https://adrianroselli.com/2019/10/accessible-drop-caps.html)
 
 ### Design
 
