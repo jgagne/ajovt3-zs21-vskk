@@ -66,7 +66,7 @@ Share a link to your work in the `01-character-description` channel in Slack.
 
 ### GitHub Config
 
-- In your `english-for-designers` repo, create a folder with a Markdown and image file (within an `img` folder).
+- In *your* `english-for-designers` repo, create a folder with a Markdown and image file (within an `img` folder).
   - For example:
     - `01-character-description`
       - `index.md`
@@ -192,6 +192,7 @@ Bespoke Typeface](https://raggededge.com/opinion/bespoke-typefaces-a-guide/)
 ### Tutorials
 
 - [Improving Image Accessibility With Alt Text](https://thegymnasium.com/take5/improving-image-accessibility-with-alt-text)
+- [Writing Good Alt Text - HTTP 203](https://www.youtube.com/watch?v=flf2vS0IoRs)
 - [Working & Collaborating in GitHub](https://english-for-designers-vskk.wistia.com/medias/sugdm6vb8z) (≈ 36 min)
 
 ## Vocabulary
