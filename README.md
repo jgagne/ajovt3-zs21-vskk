@@ -255,7 +255,12 @@ Helpful course related links.
 
 ### Week 3
 
-- TBA
+- Discussion:
+  - [Character & Description](01-character-description.md) content
+- Workshop:
+  - Alt text edits, image optimizations, and GitHub cleanup
+- Assignment:
+  - Select a few of your best and favorite portfolio pieces, three (3) to x (any number), and be prepared to present and share your work with the class for [Week 4](#week-4), October 26.
 
 ### Week 4
 
