@@ -151,7 +151,7 @@ Caption for sketch 1.
 
 ## Homework
 
-1. Add an **Issue** to your repro with revised versions of your alt text, considering aesthetic and [emotion](https://www.youtube.com/watch?v=flf2vS0IoRs) related content within the artwork.
+1. Add an **Issue** to your repo with revised versions of your alt text, focusing on the aesthetic and [emotion](https://www.youtube.com/watch?v=flf2vS0IoRs)-related content in the artwork. Also, consider the overall impression and readability of the description.
 
 - For example, [this issue](https://github.com/jgagne/english-for-designers/issues/1) based on [Eva Junková’s alt text](https://evajunkova.github.io/english-for-designers/00-composition/01-character-description):
 
@@ -181,7 +181,7 @@ Caption for sketch 1.
 > 7. The letter O made of two koi fish swimming to form an oval, in pen and ink, on a peaceful ink wash background.
 ```
 
-2. Please review [artwork](#artwork) requirements, update, and optimize all images for performance (and accessibility)
+2. Please review artwork [requirements](#details), then update and optimize all images for performance (and accessibility) via Photoshop and optimization tools (as listed below).
 
 **Note:**
 
@@ -200,7 +200,7 @@ Caption for sketch 1.
 #### Mac-based
 - [ImageOptim](https://imageoptim.com)
   - Enable all image optimizations options (specifically `Guetzli`) via `ImageOptim` > `Preferences…` > `Enable` (left sidebar in General settings).
-- [ImageAplha](https://pngmini.com) for alpha and transparency
+- [ImageAlpha](https://pngmini.com) for alpha and transparency heavy images
 
 #### Web-based
 - [Squoosh](https://squoosh.app)
