@@ -3,6 +3,7 @@
 - [Brief](#brief)
 - [Details](#details)
 - [Handoff](#handoff)
+- [Homework](#homework)
 - [Examples](#examples)
 - [Readings](#readings)
 - [Resources](#resources)
@@ -148,10 +149,68 @@ Caption for sketch 1.
 <p><em>&</em>, Justin Gagne. Screenshot of an artboard in Adobe Illustrator. 2017</p>
 </details>
 
+## Homework
+
+1. Add an **Issue** to your repro with revised versions of your alt text, considering aesthetic and [emotion](https://www.youtube.com/watch?v=flf2vS0IoRs) related content within the artwork.
+
+- For example, [this issue](https://github.com/jgagne/english-for-designers/issues/1) based on [Eva Junková’s alt text](https://evajunkova.github.io/english-for-designers/00-composition/01-character-description):
+
+```
+## Alt Text Edits
+
+1. The letter O made of koi fish - calm and peaceful illustration. Both fish are forming a circle.
+
+2. The letter O made of koi fish, 2 fish forming a circle, calm and peaceful illustration.
+
+3. The letter O made of illustrated koi fish, 2 fish forming a circle calm and peaceful.
+
+4. The letter O made of two koi fish forming an oval, in pen and ink, swimming on a peaceful ink wash background.
+
+5. A pen and ink illustrated letter O, made of two koi fish forming an oval, swimming on a peaceful ink wash background.
+
+6. A pen and ink letter O, made of two koi fish forming an oval, swimming on a peaceful ink wash background.
+
+7. The letter O made of two koi fish swimming to form an oval, in pen and ink, on a peaceful ink wash background.
+
+### Favorites
+
+> 5. A pen and ink illustrated letter O, made of two koi fish forming an oval, swimming on a peaceful ink wash background.
+
+> 6. A pen and ink letter O, made of two koi fish forming an oval, swimming on a peaceful ink wash background.
+
+> 7. The letter O made of two koi fish swimming to form an oval, in pen and ink, on a peaceful ink wash background.
+```
+
+2. Please review [artwork](#artwork) requirements, update, and optimize all images for performance (and accessibility)
+
+**Note:**
+
+- Aim for an optimized image file size around `200 KB` and below.
+
+### Save for Web
+
+#### Photoshop
+
+- In Photoshop: save images using Photoshop, `File` > `Export` > `Save for Web (Legacy)…`
+  - Save photographs as a JPG (`.jpg`) using the preset `JPEG High` or `JPEG Medium` (depending on quality and file size)
+  - Save illustrations as a PNG (`.png`) using the preset `PNG-8 128 Dithered` (less colors, max 256) or `PNG-24` (more colors, millions).
+
+### Optimization Tools
+
+#### Mac-based
+- [ImageOptim](https://imageoptim.com)
+  - Enable all image optimizations options (specifically `Guetzli`) via `ImageOptim` > `Preferences…` > `Enable` (left sidebar in General settings).
+- [ImageAplha](https://pngmini.com) for alpha and transparency
+
+#### Web-based
+- [Squoosh](https://squoosh.app)
+  - Use `MozJPEG` to optimize JPGs and use `OptiPNG` to optimize PNGs. (You may resize an image in Squoosh, if needed.)
+
 ## Readings
 
 ### Alt Text
 
+- [Text descriptions and emotion rich images](https://tink.uk/text-descriptions-emotion-rich-images/)
 - [How to Write Effective Alt Text](https://www.3playmedia.com/2019/12/27/alt-text-marketing/)
 - [How to Write Great Alt Text — And Why It Matters](https://aceseditors.org/news/2020/how-to-write-great-alt-text-and-why-it-matters)
 - [alt attributes like paragraphs](https://daverupert.com/2020/09/alt-attributes-like-paragraphs/)
