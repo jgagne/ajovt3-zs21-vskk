@@ -72,7 +72,7 @@ Share a link to your work in the `01-character-description` channel in Slack.
     - `01-character-description`
       - `index.md`
       - `img`
-         - `uppercase-and-jgagne.png`
+        - `uppercase-and-jgagne.png`
 
 ### Markdown Files
 
