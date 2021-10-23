@@ -259,12 +259,19 @@ Helpful course related links.
   - [Character & Description](01-character-description.md) content
 - Workshop:
   - Alt text edits, image optimizations, and GitHub cleanup
-- Assignment:
-  - Select a few of your best and favorite portfolio pieces, three (3) to x (any number), and be prepared to present and share your work with the class for [Week 4](#week-4), October 26.
+- Assignments:
+  - [Character & Description](01-character-description.md#homework) alt text revisions
+  - [Impression](02-impression.md) presentation
 
 ### Week 4
 
-- TBA
+- Discussion:
+  - [Character & Description](01-character-description.md) content
+  - TBA
+- Workshop:
+  - [Impression](02-impression.md)
+- Assignments:
+  - TBA
 
 ### Week 5
 
