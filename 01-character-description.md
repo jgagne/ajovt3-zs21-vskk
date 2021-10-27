@@ -210,6 +210,7 @@ Caption for sketch 1.
 
 ### Alt Text
 
+- [Writing great alt text: Emotion matters](https://jakearchibald.com/2021/great-alt-text/)
 - [Text descriptions and emotion rich images](https://tink.uk/text-descriptions-emotion-rich-images/)
 - [How to Write Effective Alt Text](https://www.3playmedia.com/2019/12/27/alt-text-marketing/)
 - [How to Write Great Alt Text — And Why It Matters](https://aceseditors.org/news/2020/how-to-write-great-alt-text-and-why-it-matters)
