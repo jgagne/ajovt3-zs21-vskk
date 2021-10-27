@@ -23,10 +23,12 @@
     - Examples:
       - I am Chaitanya, product designer, mother and a photography enthusiast currently living in San Francisco. (`104 characters`)
       - Amanda Pinsker—Experience designer. I like to rethink things through experimentation, compassion, and a sense of humor. (`119 characters`)
-2. *(Maybe start here first.)* Write a series of short paragraphs (one to three) about who you are, beyond being a designer; a personal bio that tells your story, with an emphasis on keywords about your passions, experience, etc. Consider each paragraph as two to three short, meaningful descriptions (120 characters each). Don’t worry about length — write first — then edit for clarity and conciseness later.
-    -  See [About Me](#about-me) for examples.
-3. Choose a project to develop as a case study for your portfolio and write about the process using the PAR and RAD content methods. Aim for around 300–500 *words* (not characters).
+2. *(Maybe start here first.)* Write a series of short paragraphs (one to three) about who you are, beyond being a designer; a personal bio that tells your story, with an emphasis on keywords about what you do, your passions, experience, etc. Consider each paragraph as two to three short, meaningful descriptions (120 characters each).
+    - See [About Me](#about-me) for examples.
+3. Choose a project to develop as a case study for your portfolio and write about the process using the PAR and RAD content methods. Aim for around 500 *words* (not characters).
     - See [Case Studies](#case-studies) for examples.
+
+- **Note:** Don’t worry about length — write first — then edit for clarity and conciseness later.
 
 ## Warm-Up
 
@@ -94,7 +96,7 @@ A concise, single sentence about yourself as a designer (aim for about 100 chara
 
 ![Alt text description.](img/lsutnar-headshot.png) <! -- Maybe a photo of yourself? -->
 
-A series of short paragraphs (one to three) about who you are, beyond being a designer; a personal bio that tells your story, with an emphasis on keywords about your passions, experience, etc. Consider each paragraph as two to three short, meaningful descriptions (120 characters each). Don’t worry about length — write first — then edit for clarity and conciseness later.
+A series of short paragraphs (one to three) about who you are, beyond being a designer; a personal bio that tells your story, with an emphasis on keywords about what you do, your passions, experience, etc. Consider each paragraph as two to three short, meaningful descriptions (120 characters each). Don’t worry about length — write first — then edit for clarity and conciseness later.
 ```
 
 - `case-study.md`
@@ -141,7 +143,7 @@ See [Images](#images) for resources on choosing the right image format and file 
   - [Strong Back | Open Heart](https://colly.com/work/strong-back-open-heart)
   - [Citipo](https://colly.com/work/citipo)
 - Upstatement
- - [Tito’s Handmade Vodka: Turning spirits into love & goodness](https://upstatement.com/case-study/titos-handmade-vodka/)
+  - [Tito’s Handmade Vodka: Turning spirits into love & goodness](https://upstatement.com/case-study/titos-handmade-vodka/)
 - Pentagram
   - [Shake Shack](https://www.pentagram.com/work/shake-shack)
 - [UX Case Studies](https://uxdesign.cc/ux-case-studies/home)
@@ -179,8 +181,8 @@ See [Images](#images) for resources on choosing the right image format and file 
 ### Tutorials
 
 - [5 mins on Lean Content](https://stephaniehay.com/2012/12/24/lean-content-testing-marketing-copy-instead-of-spinning-your-wheels/)
-- [Storytelling for Designers](https://thegymnasium.com/take5/storytelling-for-designers)
 - [Crafting Your Story](https://thegymnasium.com/take5/crafting-your-story)
+- [Storytelling for Designers](https://thegymnasium.com/take5/storytelling-for-designers)
 
 ### Images
 
