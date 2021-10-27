@@ -151,11 +151,19 @@ See [Images](#images) for resources on choosing the right image format and file 
 
 ## Readings
 
+### Content Strategy
+
 - [Being Real Builds Trust](https://alistapart.com/article/being-real-builds-trust/)
+
+### Case Study Development
+
 - [UX Portfolio Case Study template (plus examples from successful hires)](https://uxplanet.org/ux-portfolio-case-study-template-plus-examples-from-successful-hires-86d5b0faa2d6)
 - [How to Write Project Case Studies for Your Portfolio](https://medium.com/@vanschneider/how-to-write-project-case-studies-for-your-portfolio-2e8d397a60b4)
   - See also [How To Write A Case Study For Your Design Portfolio](https://www.format.com/magazine/resources/design/how-to-write-design-case-study)
 - [Design Over Time: the Value of Case Studies](https://educators.aiga.org/design-over-time-the-value-of-case-studies/)
+
+### GitHub Tips
+
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
   - As a suggestion for writing more meaningful message, it’s worth a read.
 
