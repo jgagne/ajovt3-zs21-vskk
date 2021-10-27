@@ -259,7 +259,7 @@ Helpful course related links.
   - [Character & Description](01-character-description.md) content
 - Workshop:
   - Alt text edits, image optimizations, and GitHub cleanup
-- Assignments:
+- Homework:
   - [Character & Description](01-character-description.md#homework) alt text revisions
   - [Impression](02-impression.md) presentation
 
@@ -267,15 +267,24 @@ Helpful course related links.
 
 - Discussion:
   - [Character & Description](01-character-description.md) content
-  - TBA
 - Workshop:
-  - [Impression](02-impression.md)
-- Assignments:
-  - TBA
+  - [Character & Description](01-character-description.md) alt text edits
+  - [Impression](02-impression.md) presentations
+  - The importance of storytelling and case studies
+- Homework:
+  - [Character & Description](01-character-description.md) alt text revisions (close to the [final] edit)
+  - [Aboutness](03-aboutness.md) texts and case study
 
 ### Week 5
 
-- TBA
+- Discussion:
+  - [Impression](02-impression.md) presentations, continued
+  - [Aboutness](03-aboutness.md) discussion and walk-throughs
+- Workshop:
+  - [Aboutness](03-aboutness.md) feedback jam
+    - See [Better Writing Feedback](https://www.betterwritingfeedback.com)
+- Homework:
+  - TBA
 
 ### Week 6
 
