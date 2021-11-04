@@ -272,7 +272,7 @@ Helpful course related links.
   - [Impression](02-impression.md) presentations
   - The importance of storytelling and case studies
 - Homework:
-  - [Character & Description](01-character-description.md) alt text revisions (close to the [final] edit)
+  - [Character & Description](01-character-description.md#homework) alt text revisions (close to the [final] edit)
   - [Aboutness](03-aboutness.md) texts and case study
 
 ### Week 5
@@ -282,9 +282,8 @@ Helpful course related links.
   - [Aboutness](03-aboutness.md) discussion and walk-throughs
 - Workshop:
   - [Aboutness](03-aboutness.md) feedback jam
-    - See [Better Writing Feedback](https://www.betterwritingfeedback.com)
 - Homework:
-  - TBA
+  - [Aboutness](03-aboutness.md#homework) about me text and case study edits
 
 ### Week 6
 
