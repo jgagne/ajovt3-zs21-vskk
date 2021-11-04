@@ -4,6 +4,7 @@
 - [Warm-Up](#warm-up)
 - [Methods](#methods)
 - [Handoff](#handoff)
+- [Homework](#homework)
 - [Examples](#examples)
 - [Readings](#readings)
 - [Resources](#resources)
@@ -66,7 +67,7 @@ Lean content is reliable, authentic, and direct language (this builds the reader
 
 ## Handoff
 
-Share your repo URL in the `03-aboutness` project channel of your Slack workspace.
+Share a link to your work in the `03-aboutness` channel in Slack.
 
 ### GitHub Config
 
@@ -126,10 +127,58 @@ See [Images](#images) for resources on choosing the right image format and file 
 - For animation(s), without sound, use an animated GIF as the file format, and still use Markdown’s image syntax (`![Alt text description.](img/animation.gif)`).
 - For video(s), try using [Video to markdown!](https://video-to-markdown.netlify.app) to generate the necessary Markdown.
 
+## Homework
+
+1. Edit your about me text focusing on your expertise, passion, and personality.
+  - Do you need it? <s>My name is</s>
+  - Who am I hiring?
+  - What makes you, *you*, outside of design?
+2. Edit your case study based on in-class feedback.
+
+### Holistic
+
+- Balance the number of images and amount of text
+  - If there’s an image, it either needs a short description above or a caption below.
+  - As an exercise, remove all the images, is the text TL;DR (too long; didn’t read)?
+    - Maybe you started at under 1,000 words. Can you tell your story with clarity and meaning, in half the words, without losing your reliable, authentic, and direct language?
+    - Listen (Start at `2:45`) [
+Episode 35 – Don’t Make Me Think with Steve Krug](https://extraordinarybusinessbooks.com/episode-35-dont-make-me-think-with-steve-krug/)
+
+### Proximate
+
+- Title, client, and short description
+  - For example:
+    ```
+    # Wemo Smart Dimmer Setup
+    ## Belkin International, Inc.
+
+    Setting up a smart dimmer switch involves wiring, calibrating brightness levels, and connecting to a smart home app. I coordinated design of multiple touch points in guiding users through this process.
+    ```
+- Project details:
+  - My Goal
+  - What you did; topics/keywords: Ideation, identity, UX, typography, design system
+  - Team
+  - Role
+  - Dates
+  - Deadlines (Two-day project)
+  - etc.
+    - Examples:
+      - Caroline Win: [Wemo Smart Dimmer Setup](https://www.carolinewin.com/case-studies/wemo-smart-dimmer-setup)
+      - Simon Collison: [Citipo](https://colly.com/work/citipo)
+
+3. Begin to collect and collate content for your résumé/CV (curriculum vitae).
+  - The clients in your case studies will map to your work experience section of your résumé/CV.
+
+### Extra Credit
+
+- Choose another project; document and write another case study.
+
 ## Examples
 
 ### About Me
 
+- [Caroline Win](https://www.carolinewin.com)
+  - [About Me](https://www.carolinewin.com/about)
 - [Chaitanya Mendu](https://www.chaitanya.design)
   - [My Story](https://www.chaitanya.design/about-me)
 - [Amanda Pinsker](https://amandapinsker.com)
@@ -139,6 +188,8 @@ See [Images](#images) for resources on choosing the right image format and file 
 
 ### Case Studies
 
+- Caroline Win
+  - [Wemo Smart Dimmer Setup](https://www.carolinewin.com/case-studies/wemo-smart-dimmer-setup)
 - Simon Collison
   - [Strong Back | Open Heart](https://colly.com/work/strong-back-open-heart)
   - [Citipo](https://colly.com/work/citipo)
@@ -154,6 +205,9 @@ See [Images](#images) for resources on choosing the right image format and file 
 ### Content Strategy
 
 - [Being Real Builds Trust](https://alistapart.com/article/being-real-builds-trust/)
+- [The Text-First Portfolio](https://www.uxbeginner.com/the-text-first-ux-portfolio/)
+- [
+Episode 35 – Don’t Make Me Think with Steve Krug](https://extraordinarybusinessbooks.com/episode-35-dont-make-me-think-with-steve-krug/) (Start at `2:45`)
 
 ### Case Study Development
 
@@ -169,10 +223,6 @@ See [Images](#images) for resources on choosing the right image format and file 
 
 ## Resources
 
-### Feedback
-
-- [Better Writing Feedback](https://www.betterwritingfeedback.com)
-
 ### Markdown
 
 - [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
@@ -183,7 +233,7 @@ See [Images](#images) for resources on choosing the right image format and file 
 
 ### Writing Tools
 
-- [Grammarly](https://www.grammarly.com)
+- [Grammarly Editor](https://www.grammarly.com)
 - [Hemingway Editor](https://www.hemingwayapp.com)
 
 ### Tutorials
