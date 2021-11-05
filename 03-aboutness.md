@@ -129,11 +129,11 @@ See [Images](#images) for resources on choosing the right image format and file 
 
 ## Homework
 
-1. Edit your about me text focusing on your expertise, passion, and personality.
+1. Edit your about me text focusing on your expertise, passion, and personality:
   - Do you need it? <s>My name is</s>
   - Who am I hiring?
   - What makes you, *you*, outside of design?
-2. Edit your case study based on in-class feedback.
+2. Edit your case study based on in-class feedback, using the following criteria:
 
 ### Holistic
 
@@ -143,6 +143,8 @@ See [Images](#images) for resources on choosing the right image format and file 
     - Maybe you started at under 1,000 words. Can you tell your story with clarity and meaning, in half the words, without losing your reliable, authentic, and direct language?
     - Listen (Start at `2:45`) [
 Episode 35 – Don’t Make Me Think with Steve Krug](https://extraordinarybusinessbooks.com/episode-35-dont-make-me-think-with-steve-krug/)
+  - And vice versa (the other way around), remove all the text, do the images tell the story on their own, from start to finish?
+    - For example, see [Jakub Kula’s informative imagery](https://jakub-kula.github.io/english-for-designers/03-aboutness/case-study.html)
 
 ### Proximate
 
