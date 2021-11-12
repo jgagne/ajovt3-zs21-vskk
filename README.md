@@ -278,7 +278,7 @@ Helpful course related links.
 ### Week 5
 
 - Discussion:
-  - [Impression](02-impression.md) presentations, continued
+  - [Impression](02-impression.md) presentations (continued)
   - [Aboutness](03-aboutness.md) discussion and walk-throughs
 - Workshop:
   - [Aboutness](03-aboutness.md) feedback jam
@@ -287,7 +287,12 @@ Helpful course related links.
 
 ### Week 6
 
-- TBA
+- Discussion:
+  - [Impression](02-impression.md) presentations (continued)
+  - [Aboutness](03-aboutness.md) walk-throughs and feedback
+- Homework:
+  - [Aboutness](03-aboutness.md#homework) about me text and case study edits
+  - [Experience](04-experience.md) Résumé/CV (Curriculum Vitae) development
 
 ### Week 7
 
