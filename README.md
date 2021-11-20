@@ -236,7 +236,7 @@ Helpful course related links.
 - [Week 11](#week-11), December 14
   - Final presentations
 - [Week 12](#week-12), December 21
-  - Final presentations
+  - Last class, remote; Final presentations
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
 
@@ -296,11 +296,17 @@ Helpful course related links.
 
 ### Week 7
 
-- TBA
+- Discussion:
+  - [Experience](04-experience.md) Résumé/CV walk-throughs and feedback
+- Homework:
+  - [Experience](04-experience.md#homework) Résumé/CV revisions
+  - [Storytelling](05-storytelling.md#homework) Questions and readings
 
 ### Week 8
 
-- TBA
+- Discussion:
+  - Voice and tone
+  - Presentation notes and outlines
 
 ### Week 9
 
@@ -316,4 +322,4 @@ Helpful course related links.
 
 ### Week 12
 
-- Final Presentations
+- Last class, remote, Final Presentations
