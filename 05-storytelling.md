@@ -47,7 +47,9 @@
 - [Accessibile Colors](https://accessible-colors.com)
 - [Coblis —
 Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
-- [Contraste](https://contrasteapp.com)
-  - Contraste is a simple app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG) for macOS.
-- [Pika](https://superhighfives.com/pika)
-  - Pika is an easy to use, open-source, native colour picker for macOS (10.15+)
+
+Color pickers for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG) for Windows and macOS.
+
+- [TGPi Colour Contrast Analyser (CCA)](https://www.tpgi.com/color-contrast-checker/) (Windows and Mac)
+- [Contraste](https://contrasteapp.com) (Mac only)
+- [Pika](https://superhighfives.com/pika) (Mac only)
