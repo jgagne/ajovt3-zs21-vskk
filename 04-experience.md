@@ -4,6 +4,7 @@ Résumé/CV (Curriculum Vitae) development.
 
 - [Brief](#brief)
 - [Handoff](#handoff)
+- [Homework](#homework)
 - [Examples](#examples)
 - [Readings](#readings)
 - [Resources](#resources)
@@ -75,6 +76,40 @@ Share a link to your work in the `04-experience` channel in Slack.
 
 - [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
 ```
+
+## Homework
+
+Revise résumé/CV about me and/or work experience text to better align with a PAR (problem, action, and result) focused [voice and tone](https://styleguide.mailchimp.com/voice-and-tone/):
+
+### About Me
+
+1. What problems will you solve for the employer?
+2. What actions will you take to get the job done?
+3. What makes you a successful designer?
+
+- For example, but you do better than this and with personality:
+> I focus on design that is intuitive, thoughtful, and balanced.
+I value collaboration and getting the details right.
+>
+>  —[Caroline Win](https://www.carolinewin.com)
+
+### Work Experience
+
+1. What problem did the project solve?
+2. What actions did you take to do this project?
+3. How successful were you in solving the problem?
+    - What were the results of the project?
+
+- For example:
+> I led the video product team as well as the Audience
+Experience team at Vox Media. My work spanned creating the
+best editorial consumption experiences for our audience on
+all platforms as well as building the systems and tools used
+to empower the editorial staff.
+>
+> —[Bethan Heck](https://www.dropbox.com/s/r765mszd44pdgbq/BethanyHeckresume.pdf?dl=0)
+
+- See [Crafting Your Story](https://thegymnasium.com/take5/crafting-your-story)
 
 ## Examples
 
