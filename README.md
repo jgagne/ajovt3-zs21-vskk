@@ -304,13 +304,18 @@ Helpful course related links.
 
 ### Week 8
 
+- No class; work from home
 - Discussion:
-  - Voice and tone
-  - Presentation notes and outlines
+  - <s>Voice and tone</s>
+  - <s>Presentation notes and outlines</s>
+- Homework:
+  - [Storytelling](05-storytelling.md#homework) Questions, readings, design stories, and writing
 
 ### Week 9
 
-- TBA
+- Discussion:
+  - Voice and tone
+  - Presentation notes and outlines
 
 ### Week 10
 
