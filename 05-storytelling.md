@@ -36,7 +36,7 @@
   - [State of the Web](https://vimeo.com/641568337)
 
 3. Start a written outline, a mind map, and a list of resource links for *your* design story based  on the questions from the initial homework prompt ↑.
-  - See readings for [preparation](#preparation), [storytelling](#storytelling), and [mind mapping tools](#mind-mapping-tools) for guidance and inspiration.
+  - See readings for [preparation](#preparation), [storytelling](#storytelling-1), and [mind mapping tools](#mind-mapping-tools) for guidance and inspiration.
 
 ## Readings
 
