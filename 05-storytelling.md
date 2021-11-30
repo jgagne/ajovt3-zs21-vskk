@@ -44,7 +44,7 @@
 
 - [How to (properly) break your design system](https://breakyourdesignsystem.com)
 - [The Daily Heller: The Assistant, Jayme Odgers, Works for Paul Rand](https://www.printmag.com/daily-heller/the-daily-heller-the-assistant-jayme-odgers-works-for-paul-rand/)
-- [1995 AIGA Medalist: Ladislav Sutnar](https://epi.aiga.org/medalist-ladislavsutnar)\
+- [1995 AIGA Medalist: Ladislav Sutnar](https://epi.aiga.org/medalist-ladislavsutnar)
 
 #### Presentations
 
