@@ -75,7 +75,8 @@ Introduction to section…
 
 ### Voice, Tone, and Style
 
-- [Tone-of-Voice Words](https://www.nngroup.com/articles/tone-voice-words/)
+- [The Four Dimensions of Tone of Voice](https://www.nngroup.com/articles/tone-of-voice-dimensions/)
+  - [Tone-of-Voice Words](https://www.nngroup.com/articles/tone-voice-words/)
 - [Voice, tone and style: The whys, wheres and hows](https://gathercontent.com/blog/voice-tone-style-whys-wheres-hows)
 - [What is the difference between voice and tone?](https://medium.com/evoking-brand/what-is-the-difference-between-voice-and-tone-5f0fca775520)
 - [7 Best Examples of Brand Voice & Tone](https://www.ebaqdesign.com/blog/brand-voice)
