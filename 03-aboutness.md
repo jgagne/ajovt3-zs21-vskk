@@ -14,11 +14,11 @@
 
 > The designer must think first, work later.
 >
-> —[Ladislav Sutnar](https://www.aiga.org/medalist-ladislavsutnar), [Pioneer of Information Design](https://www.eyemagazine.com/feature/article/sutnar), 1897–1976
+> — [Ladislav Sutnar](https://www.aiga.org/medalist-ladislavsutnar), [Pioneer of Information Design](https://www.eyemagazine.com/feature/article/sutnar), 1897–1976
 
 > Get rid of half the words on each page, then get rid of half of what’s left.
 >
-> —[Steve Krug](https://sensible.com/about/), usability consultant and author of [Don’t Make Me Think](https://sensible.com/dont-make-me-think/)
+> — [Steve Krug](https://sensible.com/about/), usability consultant and author of [Don’t Make Me Think](https://sensible.com/dont-make-me-think/)
 
 1. Write a concise, single sentence about yourself as a designer, in under 120 characters in length.
     - Examples:

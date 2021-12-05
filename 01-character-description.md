@@ -13,7 +13,7 @@
 
 > 90 percent of design is typography. And the other 90 percent is whitespace.
 >
-> —[Jeffrey Zeldman](https://twitter.com/zeldman/status/679727437198929921)
+> — [Jeffrey Zeldman](https://twitter.com/zeldman/status/679727437198929921)
 
 ![A large painted black serif capital letter O with a white oval center, on an off-white background.](./img/01-character-description/klint-atom-series.jpg)
 

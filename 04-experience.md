@@ -107,7 +107,7 @@ best editorial consumption experiences for our audience on
 all platforms as well as building the systems and tools used
 to empower the editorial staff.
 >
-> —[Bethan Heck](https://www.dropbox.com/s/r765mszd44pdgbq/BethanyHeckresume.pdf?dl=0)
+> — [Bethan Heck](https://www.dropbox.com/s/r765mszd44pdgbq/BethanyHeckresume.pdf?dl=0)
 
 - See [Crafting Your Story](https://thegymnasium.com/take5/crafting-your-story)
 

@@ -9,7 +9,7 @@
 
 > Design is storytelling.
 >
-> —[Ellen Lupton](https://ellenlupton.com), designer (writer, curator, and educator)
+> — [Ellen Lupton](https://ellenlupton.com), designer (writer, curator, and educator)
 
 Select a few of your best and favorite portfolio pieces or case studies; three (3) to `x` (any number), and be prepared to present and share your work with the class. Consider your story by writing presenter notes as a transcript of the presentation.
 
