@@ -234,9 +234,8 @@ Helpful course related links.
 - [Week 9](#week-9), November 30
 - [Week 10](#week-10), December 7
 - [Week 11](#week-11), December 14
-  - Final presentations
 - [Week 12](#week-12), December 21
-  - Last class, remote; Final presentations
+  - Last class, remote; both groups meet at 9:45 a.m. (no afternoon class)
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
 
@@ -300,7 +299,7 @@ Helpful course related links.
   - [Experience](04-experience.md) Résumé/CV walk-throughs and feedback
 - Homework:
   - [Experience](04-experience.md#homework) Résumé/CV revisions
-  - [Storytelling](05-storytelling.md#homework) Questions and readings
+  - [Storytelling](06-storytelling.md#homework) Questions and readings
 
 ### Week 8
 
@@ -309,22 +308,35 @@ Helpful course related links.
   - <s>Voice and tone</s>
   - <s>Presentation notes and outlines</s>
 - Homework:
-  - [Storytelling](05-storytelling.md#homework) Questions, readings, design stories, and writing
+  - [Storytelling](06-storytelling.md#homework) Questions, readings, design stories, and writing
 
 ### Week 9
 
 - Discussion:
   - Voice and tone
   - Presentation notes and outlines
+- Homework:
+  - [Voice & Tone](05-voice-tone.md) Content style guide
+  - [Storytelling](06-storytelling.md#homework) Work-in-progress
 
 ### Week 10
 
-- TBA
+- Discussion:
+  - Voice and tone
+- Lecture:
+  - Accessible writing
+- Homework:
+  - TBA
 
 ### Week 11
 
-- Final Presentations
+- Discussion
+  - Writing for social media
+- Workshop
+  - Posting to social
+- Homework:
+  - TBA
 
 ### Week 12
 
-- Last class, remote, Final Presentations
+- Last class, remote; both groups meet at 9:45 a.m. (no afternoon class)
