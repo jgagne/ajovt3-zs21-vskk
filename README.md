@@ -326,12 +326,13 @@ Helpful course related links.
 - Lecture:
   - Accessible writing
 - Homework:
-  - TBA
+  - [Voice & Tone](05-voice-tone.md) Revisions based on lecture and discussion
+  - [Storytelling](06-storytelling.md#homework) Prep for presentation rehearsal
 
 ### Week 11
 
 - Discussion
-  - Writing for social media
+  - [Storytelling](06-storytelling.md#homework) Presentation rehearsal for feedback
 - Workshop
   - Posting to social
 - Homework:
