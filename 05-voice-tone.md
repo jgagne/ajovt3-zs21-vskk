@@ -17,7 +17,7 @@
 >
 > — [George Orwell](https://www.openculture.com/2016/05/george-orwells-six-rules-for-writing-clear-and-tight-prose.html), author and critic
 
-Consider the writing you’ve done this semester. Take inventory of the voice, tone, and style used for your about texts, case study, and CV, and write a basic content style guide that summarizes your personal brand’s voice, tone, and style.
+Consider the writing you’ve done this semester. Take inventory of the voice, tone, and style used in your about texts, case study, and CV, and write a simple content style guide that summarizes your personal brand’s voice, tone, and style.
   - See [What is the difference between voice and tone?](https://medium.com/evoking-brand/what-is-the-difference-between-voice-and-tone-5f0fca775520), then Mailchimp’s [Writing Goals and Principles:
 Mailchimp](https://styleguide.mailchimp.com/writing-principles/) and [Voice and Tone: Mailchimp](https://styleguide.mailchimp.com/voice-and-tone/) for structure
 
@@ -101,6 +101,11 @@ Introduction to section…
 - [Content principles: University of Dundee](https://www.dundee.ac.uk/brand/content-style-guide/content-principles/)
 - [Voice and tone: University of Dundee](https://www.dundee.ac.uk/brand/content-style-guide/voice-tone/)
 - [Style: The Punctuation Guide](https://www.thepunctuationguide.com/style.html)
+
+### Books
+
+- [Microcopy:
+The Complete Guide](https://www.microcopybook.com) (promo code: `prototypr10`)
 
 ## Vocabulary
 
