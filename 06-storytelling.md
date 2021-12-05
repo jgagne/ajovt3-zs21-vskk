@@ -9,11 +9,11 @@
 
 > The universe is made of stories, not atoms.
 >
-> —[Bobette Buster](http://www.bobettebuster.com), storyteller, author, and consultant
+> — [Bobette Buster](http://www.bobettebuster.com), storyteller, author, and consultant
 
 > Words are one of the most powerful design materials available. They convey deeply complex meanings in a compact space.
 >
-> —[Scott Kubie](https://alistapart.com/article/writing-for-designers-excerpt/), designer, author, and digital strategist
+> — [Scott Kubie](https://alistapart.com/article/writing-for-designers-excerpt/), designer, author, and digital strategist
 
 ## Homework
 
