@@ -326,7 +326,7 @@ Helpful course related links.
 - Lecture:
   - Accessible writing
 - Homework:
-  - [Voice & Tone](05-voice-tone.md) Revisions based on lecture and discussion
+  - [Voice & Tone](05-voice-tone.md) Revisions based on discussion and lecture
   - [Storytelling](06-storytelling.md#homework) Prep for presentation rehearsal
 
 ### Week 11
