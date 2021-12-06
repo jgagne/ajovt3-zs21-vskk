@@ -89,6 +89,7 @@ Color pickers for checking the accessibility of text against the Web Content Acc
 ### Mind Mapping Tools
 
 - [FigJam](https://www.figma.com/figjam/) from Figma
+- [Milanote](https://milanote.com)
 - [Miro](https://miro.com)
 - [Whimsical](https://whimsical.com)
 
