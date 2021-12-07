@@ -324,7 +324,7 @@ Helpful course related links.
 - Discussion:
   - Voice and tone
 - Lecture:
-  - Accessible writing
+  - [Accessible Writing](https://www.youtube.com/watch?v=mtV05PG0ZX4)
 - Homework:
   - [Voice & Tone](05-voice-tone.md) Revisions based on discussion and lecture
   - [Storytelling](06-storytelling.md#homework) Prep for presentation rehearsal
