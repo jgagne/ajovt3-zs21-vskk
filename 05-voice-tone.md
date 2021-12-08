@@ -68,8 +68,18 @@ Introduction to section…
 - …
 - …
 - …
-
 ```
+
+## Homework
+
+1. Use your *new* content style guide to revise about texts, case study, and CV content. Ask yourself, "Is this me, in writing? Do I sound like this in person?"
+
+2. Use these four tips to revise your content for better accessible writing:
+
+- Aim for an average sentence length of 20-ish words.
+- Keep an eye out for any 3- and 4-syllable words, and replace 2- and 1-syllable words. See [Use simple words and phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/) for reference.
+- Use contractions early and often.
+- Use [Hemingway Editor](https://www.hemingwayapp.com) to double-check your reading-level (lower is better), fix passive voice, complex words and sentences, etc.
 
 ## Readings
 
@@ -103,10 +113,18 @@ Introduction to section…
 - [Voice and tone: University of Dundee](https://www.dundee.ac.uk/brand/content-style-guide/voice-tone/)
 - [Style: The Punctuation Guide](https://www.thepunctuationguide.com/style.html)
 
+### Lecture
+
+- [Accessible Writing](https://www.youtube.com/watch?v=mtV05PG0ZX4)
+
 ### Books
 
 - [Microcopy:
 The Complete Guide](https://www.microcopybook.com) (promo code: `prototypr10`)
+
+### Plain Words
+
+- [Use simple words and phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/)
 
 ## Vocabulary
 
