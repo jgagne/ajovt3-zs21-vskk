@@ -255,51 +255,51 @@ Helpful course related links.
 ### Week 3
 
 - Discussion:
-  - [Character & Description](01-character-description.md) content
+  - [Character & Description](01-character-description.md): Brief
 - Workshop:
   - Alt text edits, image optimizations, and GitHub cleanup
 - Homework:
-  - [Character & Description](01-character-description.md#homework) alt text revisions
-  - [Impression](02-impression.md) presentation
+  - [Character & Description](01-character-description.md#homework): Alt text revisions
+  - [Impression](02-impression.md): Presentation
 
 ### Week 4
 
 - Discussion:
-  - [Character & Description](01-character-description.md) content
+  - [Character & Description](01-character-description.md): Content
 - Workshop:
-  - [Character & Description](01-character-description.md) alt text edits
-  - [Impression](02-impression.md) presentations
+  - [Character & Description](01-character-description.md): Alt text edits
+  - [Impression](02-impression.md): Presentations
   - The importance of storytelling and case studies
 - Homework:
-  - [Character & Description](01-character-description.md#homework) alt text revisions (close to the [final] edit)
-  - [Aboutness](03-aboutness.md) texts and case study
+  - [Character & Description](01-character-description.md#homework): Alt text revisions (close to the [final] edit)
+  - [Aboutness](03-aboutness.md): About texts and case study
 
 ### Week 5
 
 - Discussion:
-  - [Impression](02-impression.md) presentations (continued)
-  - [Aboutness](03-aboutness.md) discussion and walk-throughs
+  - [Impression](02-impression.md): Presentations (continued)
+  - [Aboutness](03-aboutness.md): Discussion and walk-throughs
 - Workshop:
-  - [Aboutness](03-aboutness.md) feedback jam
+  - [Aboutness](03-aboutness.md): Feedback jam
 - Homework:
-  - [Aboutness](03-aboutness.md#homework) about me text and case study edits
+  - [Aboutness](03-aboutness.md#homework): About texts and case study edits
 
 ### Week 6
 
 - Discussion:
-  - [Impression](02-impression.md) presentations (continued)
-  - [Aboutness](03-aboutness.md) walk-throughs and feedback
+  - [Impression](02-impression.md): Presentations (continued)
+  - [Aboutness](03-aboutness.md): Walk-throughs and feedback
 - Homework:
-  - [Aboutness](03-aboutness.md#homework) about me text and case study edits
-  - [Experience](04-experience.md) Résumé/CV (Curriculum Vitae) development
+  - [Aboutness](03-aboutness.md#homework): about me text and case study edits
+  - [Experience](04-experience.md): Résumé/CV (Curriculum Vitae) development
 
 ### Week 7
 
 - Discussion:
-  - [Experience](04-experience.md) Résumé/CV walk-throughs and feedback
+  - [Experience](04-experience.md): Résumé/CV walk-throughs and feedback
 - Homework:
-  - [Experience](04-experience.md#homework) Résumé/CV revisions
-  - [Storytelling](06-storytelling.md#homework) Questions and readings
+  - [Experience](04-experience.md#homework): Résumé/CV revisions
+  - [Storytelling](06-storytelling.md#homework): Questions and readings
 
 ### Week 8
 
@@ -308,7 +308,7 @@ Helpful course related links.
   - <s>Voice and tone</s>
   - <s>Presentation notes and outlines</s>
 - Homework:
-  - [Storytelling](06-storytelling.md#homework) Questions, readings, design stories, and writing
+  - [Storytelling](06-storytelling.md#homework): Questions, readings, design stories, and writing
 
 ### Week 9
 
@@ -316,8 +316,8 @@ Helpful course related links.
   - Voice and tone
   - Presentation notes and outlines
 - Homework:
-  - [Voice & Tone](05-voice-tone.md) Content style guide
-  - [Storytelling](06-storytelling.md#homework) Work-in-progress
+  - [Voice & Tone](05-voice-tone.md): Content style guide
+  - [Storytelling](06-storytelling.md#homework): Work-in-progress
 
 ### Week 10
 
@@ -326,13 +326,13 @@ Helpful course related links.
 - Lecture:
   - [Accessible Writing](https://www.youtube.com/watch?v=mtV05PG0ZX4)
 - Homework:
-  - [Voice & Tone](05-voice-tone.md) Revisions based on discussion and lecture
-  - [Storytelling](06-storytelling.md#homework) Prep for presentation rehearsal
+  - [Voice & Tone](05-voice-tone.md#homework): Revisions based on discussion and lecture
+  - Storytelling [homework](06-storytelling.md#homework) and [handoff](06-storytelling.md#handoff): Prep for presentation rehearsal
 
 ### Week 11
 
 - Discussion
-  - [Storytelling](06-storytelling.md#homework) Presentation rehearsal for feedback
+  - [Storytelling](06-storytelling.md): Presentation rehearsal for feedback
 - Workshop
   - Posting to social
 - Homework:
