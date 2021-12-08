@@ -1,6 +1,7 @@
 # Storytelling
 
 - [Brief](#brief)
+- [Handoff](#handoff)
 - [Homework](#homework)
 - [Readings](#Readings)
 - [Resources](#Resources)
@@ -14,6 +15,72 @@
 > Words are one of the most powerful design materials available. They convey deeply complex meanings in a compact space.
 >
 > — [Scott Kubie](https://alistapart.com/article/writing-for-designers-excerpt/), designer, author, and digital strategist
+
+## Handoff
+
+Share a link to your work in the `06-storytelling` channel in Slack.
+
+### GitHub Config
+
+- Create a project folder (repo) with a Markdown file with an `img` folder for images.
+  - For example:
+    - `06-storytelling`
+        - `index.md`
+        - `img`
+          - `filename.png`
+          - `…`
+
+### Markdown Files
+
+Use this template as a starting point, think case study, with a balance of text and image.
+
+- `index.md`
+
+```
+# Title of Article/Presentation/Talk
+
+by Name Surname
+
+<!--
+
+Consider this structure as guidance only:
+
+1. An introduction, give personal context, and make the reason for the title clear
+  - Early inspiration and personal connection
+2. Early education and inspiration, what you learned, and educate
+  - How the past has influenced today, bring us up-to-date, who you are as design because of the past
+3. Discuss where you are today and what you're doing
+ -  Perhaps show us current inspiration, or examples of work that could benefit from your design philosophy, educate for change
+4. Discuss your persona design philosophy in detail and share examples
+  - Show work that supports your design story and person design philosophy, maybe work that inspires you today, and the work you're doing
+5. A summary, what are the takeaways, what can the audience learn from your design story?
+  - End the journey by reconnecting to where you started, the changes, the lessons learned and leave with a personal and positive message relating back to your title
+
+-->
+
+## About
+
+<!-- Add revised short description about text -->
+
+About the designer…
+
+## Notes
+
+<!-- Links to preparatory content: mind map, sketches, notes, etc. -->
+
+- […](…)
+- […](…)
+- […](…)
+
+## Resources
+
+<!-- Links to resources mentioned above -->
+
+- […](…)
+- […](…)
+- […](…)
+
+```
 
 ## Homework
 
@@ -37,6 +104,8 @@
 
 3. Start a written outline, a mind map, and a list of resource links for *your* design story based  on the questions from the initial homework prompt ↑.
   - See readings for [preparation](#preparation), [storytelling](#storytelling-1), and [mind mapping tools](#mind-mapping-tools) for guidance and inspiration.
+
+4. Read [Voice, Tone, and Style](#voice-tone-and-style) readings for added inspiration and develop a work-in-progress presentation in Markdown. See [Handoff](#handoff) for details.
 
 ## Readings
 
@@ -71,6 +140,12 @@
 ### Storytelling
 
 - [The 10 Principles of Storytelling](https://medium.com/do-book-company/the-10-principles-of-storytelling-67a25a026f32)
+
+### Voice, Tone, and Style
+
+- [Designing With Words](http://www.zeldman.com/2015/07/30/the-designer-as-writer-and-public-speaker/)
+- [Chapter 1 of Design Is A Job](https://monteiro.medium.com/what-is-a-designer-94ac32ff92d0)
+- [Write Angry](https://zachholman.com/posts/write-angry)
 
 ## Resources
 
