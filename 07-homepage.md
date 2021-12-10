@@ -15,7 +15,7 @@
 
 ## Homepage
 
-- Create an `index.md` as a table of contents (or home page) for your public website `https://username.github.io/english-for-designers` that links to your various content.
+Create an `index.md` as a table of contents (or home page) for your public website `https://username.github.io/english-for-designers` that links to your various content.
 
   - See my work-in-progress [home page](https://jgagne.github.io/english-for-designers/) for reference, but only as a starting point, as it is incomplete, and you can do better than this.
 
@@ -46,7 +46,7 @@ Share a link to your work in the `07-homepage` channel in Slack.
 
 ## Takeaways
 
-Create a page listing the top five takeaways “things I learned" this semester using text, links, images (optional), etc.
+Create a page listing the top five takeaways “things I learned” this semester using text, links, images (optional), etc.
 
 ### Handoff
 
