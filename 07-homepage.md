@@ -23,7 +23,7 @@ Create an `index.md` as a table of contents (or home page) for your public websi
     - Under your repository name, click **Settings**.
     - Under the **Repository Name** heading, type the new name of your repo.
     - Click **Rename**.
-  - Add your homepage URL `https://username.github.io/english-for-designers/` to the Website field in the **About** section (click the gear icon) in your repo `https://github.com/username/english-for-designers` for easy access.
+  - Add your home page URL `https://username.github.io/english-for-designers/` to the Website field in the **About** section (click the About settings gear icon) in your repo `https://github.com/username/english-for-designers` for easy access.
 
 ### Handoff
 
