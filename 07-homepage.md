@@ -92,4 +92,5 @@ Five things I learned this semester:
 
 ## Resources
 
-- [Accessible Typography](https://apastyle.apa.org/style-grammar-guidelines/paper-format/accessibility/typography)
+- [113 Design Guidelines for Homepage Usability](https://www.nngroup.com/articles/113-design-guidelines-homepage-usability/)\
+
