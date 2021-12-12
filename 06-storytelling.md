@@ -115,7 +115,7 @@ About the designer…
 - [The Daily Heller: The Assistant, Jayme Odgers, Works for Paul Rand](https://www.printmag.com/daily-heller/the-daily-heller-the-assistant-jayme-odgers-works-for-paul-rand/)
 - [1995 AIGA Medalist: Ladislav Sutnar](https://epi.aiga.org/medalist-ladislavsutnar)
 
-#### Presentations
+### Presentations
 
 - [How to (Properly) Break Your Design System](https://www.adobe.com/max/2021/sessions/how-to-properly-break-your-design-system-s190.html)
 - [Celebrating The Life Of The Greatest Graphic Designer - Paul Rand](https://www.youtube.com/watch?v=L4kSCd8yt00)
@@ -160,6 +160,11 @@ Color pickers for checking the accessibility of text against the Web Content Acc
 - [TGPi Colour Contrast Analyser (CCA)](https://www.tpgi.com/color-contrast-checker/) (Windows and Mac)
 - [Contraste](https://contrasteapp.com) (Mac only)
 - [Pika](https://superhighfives.com/pika) (Mac only)
+
+### Accessible Writing
+
+- [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/)
+- [Accessible Typography](https://apastyle.apa.org/style-grammar-guidelines/paper-format/accessibility/typography)
 
 ### Mind Mapping Tools
 
