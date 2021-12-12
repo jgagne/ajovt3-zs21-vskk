@@ -31,13 +31,30 @@ Share a link to your work in the `07-homepage` channel in Slack.
 
 #### GitHub Config
 
-- `07-homepage`
+- `english-for-designers` (your repo)
   - `index.md`
 
 #### Markdown Files
 
 - `index.md`
   - See my second-rate [example](https://raw.githubusercontent.com/jgagne/english-for-designers/main/index.md) (Please, make first-rate!)
+
+And for completeness:
+
+#### GitHub Config
+
+- `07-homepage`
+  - `index.md`
+
+#### Markdown Files
+
+- `index.md`
+
+```
+# Homepage
+
+- [View coursework](https://username.github.io/english-for-designers/)
+```
 
 ## Takeaways
 
