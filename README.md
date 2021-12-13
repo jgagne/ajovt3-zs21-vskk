@@ -290,7 +290,7 @@ Helpful course related links.
   - [Impression](02-impression.md): Presentations (continued)
   - [Aboutness](03-aboutness.md): Walk-throughs and feedback
 - Homework:
-  - [Aboutness](03-aboutness.md#homework): about me text and case study edits
+  - [Aboutness](03-aboutness.md#homework): About me text and case study edits
   - [Experience](04-experience.md): Résumé/CV (Curriculum Vitae) development
 
 ### Week 7
@@ -331,9 +331,9 @@ Helpful course related links.
 
 ### Week 11
 
-- Discussion
+- Discussion:
   - [Storytelling](06-storytelling.md): Presentation rehearsal for feedback
-- Workshop
+- Workshop:
   - Posting to social
 - Homework:
   - [Homepage](07-homepage.md): Coursework and takeaways
