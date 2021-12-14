@@ -32,7 +32,7 @@ Share a link to your work in the `06-storytelling` channel in Slack.
 
 ### Markdown Files
 
-Use this template as a starting point, think case study, with a balance of text and image.
+Use this template as a starting point, think case study with a theme (and a balance of text and image[s]).
 
 - `index.md`
 
