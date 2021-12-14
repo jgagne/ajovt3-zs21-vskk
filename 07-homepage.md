@@ -92,5 +92,5 @@ Five things I learned this semester:
 
 ## Resources
 
-- [113 Design Guidelines for Homepage Usability](https://www.nngroup.com/articles/113-design-guidelines-homepage-usability/)\
+- [113 Design Guidelines for Homepage Usability](https://www.nngroup.com/articles/113-design-guidelines-homepage-usability/)
 
