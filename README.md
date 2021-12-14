@@ -336,6 +336,7 @@ Helpful course related links.
 - Workshop:
   - Posting to social
 - Homework:
+  - [Storytelling](06-storytelling.md#handoff): Work-in-progress
   - [Homepage](07-homepage.md): Coursework and takeaways
 
 ### Week 12
