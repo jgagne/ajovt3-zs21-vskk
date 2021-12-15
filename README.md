@@ -334,9 +334,9 @@ Helpful course related links.
 - Discussion:
   - [Storytelling](06-storytelling.md): Presentation rehearsal for feedback
 - Workshop:
-  - Posting to social; see last item in [Homepage](07-homepage.md#h#homepage-1) brief
+  - Posting to social; see last item in [Homepage](07-homepage.md#homepage-1) brief
 - Lecture:
-  - Design is Job, [F*ck You, Pay Me](https://creativemornings.com/talks/mike-monteiro--2/1)
+  - Design is a Job, [F*ck You, Pay Me](https://creativemornings.com/talks/mike-monteiro--2/1)
 - Homework:
   - [Storytelling](06-storytelling.md#handoff): Work-in-progress design story presentation
   - [Homepage](07-homepage.md): Coursework and takeaways
