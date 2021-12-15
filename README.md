@@ -334,11 +334,13 @@ Helpful course related links.
 - Discussion:
   - [Storytelling](06-storytelling.md): Presentation rehearsal for feedback
 - Workshop:
-  - Posting to social
+  - Posting to social; see last item in [Homepage](07-homepage.md#h#homepage-1) brief
+- Lecture:
+  - Design is Job, [F*ck You, Pay Me](https://creativemornings.com/talks/mike-monteiro--2/1)
 - Homework:
-  - [Storytelling](06-storytelling.md#handoff): Work-in-progress
+  - [Storytelling](06-storytelling.md#handoff): Work-in-progress design story presentation
   - [Homepage](07-homepage.md): Coursework and takeaways
 
 ### Week 12
 
-- Last class, remote; both groups meet at 9:45 a.m. (no afternoon class)
+- Last class, remote; both groups meet at 9:45 a.m. (no afternoon class) [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09)
