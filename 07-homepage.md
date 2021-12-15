@@ -8,7 +8,7 @@
 
 ## Brief
 
-1. Create a [homepage](#homepage) (or home page) for all content from <cite>English for Designers</cite>, including work-in-progress <cite>Storytelling</cite> and <cite>Takeaways</cite>.
+1. Create a [homepage](#homepage-1) (or home page) for all content from <cite>English for Designers</cite>, including work-in-progress <cite>Storytelling</cite> and <cite>Takeaways</cite>.
 2. Create a page listing the top five [takeaways](#takeaways), “things I learned,” this semester using text, links, images (optional), etc.
 
 ## Homepage
@@ -24,6 +24,8 @@ Create an `index.md` as a table of contents (or home page) for your public websi
     - Under the **Repository Name** heading, type the new name of your repo.
     - Click **Rename**.
   - Add your home page URL `https://username.github.io/english-for-designers/` to the Website field in the **About** section (click the About settings gear icon) in your repo `https://github.com/username/english-for-designers` for easy access.
+  - Add a social media preview image at `1200 px` × `628 px` (`1.91:1` is the recommended aspect ratio) for LinkedIn, Twitter, etc.
+      - See [Customizing your repository's social media preview](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview)
 
 ### Handoff
 
