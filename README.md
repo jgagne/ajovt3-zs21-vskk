@@ -235,7 +235,7 @@ Helpful course related links.
 - [Week 10](#week-10), December 7
 - [Week 11](#week-11), December 14
 - [Week 12](#week-12), December 21
-  - Last class, remote; both groups meet at 9:45 a.m. (no afternoon class)
+  - Last class, remote; both groups meet at 9:45 a.m. (no afternoon class) [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09)
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
 
