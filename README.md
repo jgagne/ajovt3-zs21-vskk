@@ -237,7 +237,7 @@ Helpful course related links.
 - [Week 12](#week-12), December 21
   - Last class, remote; both groups meet at 9:45 a.m. (no afternoon class) [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09)
 - [Week 13](#week-13), January 18
-  - Office hours, remote [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09); update and review assignments for final grading
+  - Coursework review, remote [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09); update and review assignments for final grading
 - [Week 14](#week-14), January 25
   - *Optional* office hours, remote [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09)
 
@@ -351,7 +351,7 @@ Helpful course related links.
 
 ### Week 13
 
-- Course review, remote [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09):
+- Coursework review, remote [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09):
   - [Homepage](07-homepage.md): Coursework and takeaways; update and review assignments for final grading
   - [Storytelling](06-storytelling.md#handoff): Rehearsal presentations for feedback
       - Final [Storytelling](06-storytelling.md#handoff) presentations on February 15 and 22 (at the start of the Summer 2022 semester)
