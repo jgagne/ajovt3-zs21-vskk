@@ -11,6 +11,7 @@
 - [Markéta Rašínová](https://marketrasinova.github.io/english-for-designers/07-homepage/)
 - [Oliver Stančev](https://oliverstancev.github.io/english-for-designers/07-Homepage/)
 - [Diana Štěpničková](https://dijajana.github.io/english-for-designers/)
+- Pavla Veverková (TBA)
 
 ### PM
 - - -
