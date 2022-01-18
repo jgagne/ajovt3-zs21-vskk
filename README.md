@@ -359,3 +359,7 @@ Helpful course related links.
 ### Week 14
 
 - *Optional* office hours, remote [via Zoom](https://vskk-cz.zoom.us/my/ajovt3jgagne?pwd=WlgyL0Q4YmE0d1N2cmZtZWM0MHk2dz09)
+
+## Student Coursework
+
+- [English for Designers](https://jgagne.github.io/ajovt3-zs21-vskk)
