@@ -8,7 +8,7 @@
 - [Jirka Chyla](https://quidoo.github.io/english_for_designers/07-homepage/)
 - [Tereza Hrachovcová](https://hrachovcovat.github.io/english/homepage)
 - [Eva Junková](https://evajunkova.github.io/english-for-designers/07-homepage/)
-- ~Jakub Knezinek~ 😶
+- ~~Jakub Knezinek~~ 😶
 - [Markéta Rašínová](https://marketrasinova.github.io/english-for-designers/07-homepage/)
 - [Oliver Stančev](https://oliverstancev.github.io/english-for-designers/07-Homepage/)
 - [Diana Štěpničková](https://dijajana.github.io/english-for-designers/)
@@ -25,7 +25,7 @@
 - Ronald Steiniger `URL pending`
 - [Martin Strolený](https://martinstroleny.github.io/english-for-designers/07-homepage/)
 - [Lucie Lagertha Týčová](https://lussytea.github.io/english-for-designers/07-homepage/)
-- ~Elizaveta Larionova~ (dropped) 😔
+- ~~Elizaveta Larionova~~ (dropped) 😔
 - Elizaveta Vakalova `URL pending`
 
 - - -
