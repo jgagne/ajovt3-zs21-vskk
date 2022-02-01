@@ -253,6 +253,7 @@ Bespoke Typeface](https://raggededge.com/opinion/bespoke-typefaces-a-guide/)
 
 - [Improving Image Accessibility With Alt Text](https://thegymnasium.com/take5/improving-image-accessibility-with-alt-text)
 - [Writing Good Alt Text - HTTP 203](https://www.youtube.com/watch?v=flf2vS0IoRs)
+- [Add an alt text in InDesign](https://accessible-pdf.info/basics/indesign/add-an-alt-text-in-indesign)
 - [Working & Collaborating in GitHub](https://english-for-designers-vskk.wistia.com/medias/sugdm6vb8z) (≈ 36 min)
 
 ## Vocabulary
