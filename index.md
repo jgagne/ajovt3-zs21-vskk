@@ -26,7 +26,7 @@
 - [Martin Strolený](https://martinstroleny.github.io/english-for-designers/07-homepage/)
 - [Lucie Lagertha Týčová](https://lussytea.github.io/english-for-designers/07-homepage/)
 - ~~Elizaveta Larionova~~ (dropped) 😔
-- Elizaveta Vakalova `URL pending`
+- [Elizaveta Vakalova](https://errorjpg.github.io/english-for-designers/07-homepage/)
 
 - - -
 
