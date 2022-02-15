@@ -21,7 +21,7 @@
 - [Alexandra Kakushina](https://AlexandraKak.github.io/english-for-designers//07-homepage/)
 - [Jakub Kula](https://jakub-kula.github.io/english-for-designers/)
 - [Hana Petržílková](https://petrzilkovah.github.io/english-for-designers/)
-- Samuel Preisler `URL pending`
+- [Samuel Preisler](https://preislerdesign.github.io/english-for-designers/07-homepage/)
 - Ronald Steiniger `URL pending`
 - [Martin Strolený](https://martinstroleny.github.io/english-for-designers/07-homepage/)
 - [Lucie Lagertha Týčová](https://lussytea.github.io/english-for-designers/07-homepage/)
