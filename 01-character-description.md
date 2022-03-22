@@ -210,6 +210,7 @@ Caption for sketch 1.
 
 ### Alt Text
 
+- [The Hidden Image Descriptions Making the Internet Accessible](https://web.archive.org/web/20220219033442/https://www.nytimes.com/interactive/2022/02/18/arts/alt-text-images-descriptions.html)
 - [Writing great alt text: Emotion matters](https://jakearchibald.com/2021/great-alt-text/)
 - [Text descriptions and emotion rich images](https://tink.uk/text-descriptions-emotion-rich-images/)
 - [How to Write Effective Alt Text](https://www.3playmedia.com/2019/12/27/alt-text-marketing/)
